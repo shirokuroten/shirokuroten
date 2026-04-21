@@ -1,5 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
+## Certifications
+- CompTIA Security+
+- CISSP
+- Mandiant Cyber Threat Intelligence Analysis
+- CIAC GCIH
+
+## Focus Areas
+- SOC Analysis
+- Incident Response
+- Cyber Threat Intelligence
+
+## Portfolio
+- BTLO Writeups
+- Tools
 <!--
 **shirokuroten/shirokuroten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
