@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi, I'm shirokuroten 👋
 
 ## Certifications
 - CompTIA Security+
 - CISSP
 - Mandiant Cyber Threat Intelligence Analysis
-- CIAC GCIH
+- GIAC GCIH
 
 ## Focus Areas
 - SOC Analysis
