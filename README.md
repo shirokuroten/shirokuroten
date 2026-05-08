@@ -2,10 +2,11 @@
 
 ## Certifications
 - CompTIA Security+ (2024.5)
-- CISSP (2024.7)
+- Associate of ISC2 (2024.7)
 - Mandiant Cyber Threat Intelligence Analysis (2024.12)
 - GIAC GCIH (2026.4)
 - GIAC Advisory Board (2026.4)
+- CISSP (2026.5)
 
 ## Focus Areas
 - SOC Analysis
